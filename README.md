@@ -109,17 +109,14 @@ view it rendered as a notebook.
 
 In alphabetical order:
 
-* **Bonfini Paolo, Dr.** - Alma Sistemi (Italy)
+* **Bonfini Paolo, Dr.** - UniversiData (Italy)
 
-* **Koutulaki Maria, Dr.** - University of Leeds (UK)
-
-* **Kostantinos Kovlakas, Dr** - Institute of Space Sciences (CSIC, IEEC; Spain)
+* **Kostantinos Kovlakas, Dr** - Aistech Space (Spain)
 
 * **Maravelias Grigoris, Dr.** - PeriAstron (Greece) & FORTH (Greece)
 
 * **Tersenov Andreas, PhD candidate** - FORTH (Greece) & CEA Paris-Saclay (France)
 
-* **Vernardos Giorgos, Prof.** - Lehman College, City University of New York & AMNH (USA)
 
 ## References
 
