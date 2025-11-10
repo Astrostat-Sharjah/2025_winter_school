@@ -29,7 +29,7 @@ First, clone the repository and enter the project directory:
 
 ```bash
 git clone https://github.com/Astrostat-Sharjah/2025_winter_school
-cd astrostat25_winter_school
+cd 2025_winter_school
 ```
 
 ### Create the conda environment
